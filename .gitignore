@@ -1,0 +1,6 @@
+/dl/
+/output/
+/.config
+/.config.old
+/.auto.deps
+*.swp
